@@ -20,6 +20,7 @@ namespace NapiSharp.Lib
         private string napiDownloadUrl =
             "http://www.napiprojekt.pl/unit_napisy/dl.php?l={0}&f={1}&t={2}&v=other&kolejka=false&nick={3}&pass={4}&napios={5}";
 
+
         
         public string DownloadSubtitle(string movieFilePath)
         {
